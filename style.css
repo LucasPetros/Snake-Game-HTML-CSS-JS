@@ -1,9 +1,8 @@
 body {
-    text-align: center;
+    font-size: 30px;
+    text-align:center;
+    flex-direction: column;
+    justify-content: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   
-}
-
-  canvas{
-    color: #ffff00;
+    color: rgb(30, 31, 30);
 }
