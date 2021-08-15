@@ -1,0 +1,9 @@
+# Snake Game
+
+### Jogo da Cobrinha Desenvolvido junto a Digital Innovation.
+
+Nescessario conhecimento em:
+
+* HTML
+* CSS
+* JAVA SCRIPT
